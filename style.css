@@ -1,0 +1,32 @@
+body{
+    background-color:rgb(200, 245, 245)
+}
+
+h1{
+    text-align:center
+}
+
+p{
+    text-align:center
+}
+
+.poster {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color: rgb(20, 18, 18);
+    font-family: "Prata", serif;
+    text-align: center;
+  }
+
+.motivation-img {
+    border: 5px solid rgb(17, 17, 13);
+    width: 100%;
+    padding:10px
+ }
+
+
+
+ h1{
+    color:navy
+ }
